@@ -3,17 +3,17 @@
 In 2027, <font color="red">S</font>IG<font color="red">T</font>YP is hosting a <strong>Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages.</strong> Morphological segmentation, the process of decomposing words into minimal meaningful units, is a long-standing problem in computational linguistics. 
 **Important Dates**
 ```
-Training data Release: 15 January 2027<br/>
-Test data Release: 15 February 2027<br/>
+Training data Release: 15 January 2027<br>
+Test data Release: 15 February 2027<br>
 Submissions Due:	 1 March 2027<br/>
-Results Notification: 15 March 2027<br/>
-System descriptions are Due: 22 March 2027<br/>
-Camera-ready Due: 29 March 2027<br/>
+Results Notification: 15 March 2027<br>
+System descriptions are Due: 22 March 2027<br>
+Camera-ready Due: 29 March 2027<br>
 ```
 **Important Links** <br>
 [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdHc1G7ttdoITBjntyM13b2I7ASr9BRnavjIBvcLmdErFYSRw/viewform?usp=dialog) <br>
 [**Shared Task Page**](https://sigtyp.github.io/st2027-lingseg.html)<br>
-[**Codalab**]() <br>
+[**Codalab**]()
 ## Task Description
 ## Data
 ## Evaluation
