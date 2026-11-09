@@ -1,5 +1,5 @@
 ## Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages
-## Introduction
+
 In 2027, <font color="red">S</font>IG<font color="red">T</font>YP is hosting a **Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages.** Morphological segmentation, the process of decomposing words into minimal meaningful units, is a long-standing problem in computational linguistics.  
 **Important Dates**<br>
 ```
