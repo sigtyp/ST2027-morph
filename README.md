@@ -1,6 +1,6 @@
-##Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages
+## Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages
 ## Introduction
-In 2027, <font color="red">S</font>IG<font color="red">T</font>YP is hosting a * **Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages.** Morphological segmentation, the process of decomposing words into minimal meaningful units, is a long-standing problem in computational linguistics. 
+In 2027, <font color="red">S</font>IG<font color="red">T</font>YP is hosting a * **Shared Task on Morph Segmentation and Root Identification Across Typologically Diverse Languages.** Morphological segmentation, the process of decomposing words into minimal meaningful units, is a long-standing problem in computational linguistics.  
 **Important Dates**<br>
 ```
 Training data Release: 15 January 2027
@@ -17,8 +17,8 @@ Camera-ready Due: 29 March 2027
 ## Task Description
 ## Data
 ## Evaluation
-**System Submission Format**
-We will ask the participants to submit their predictions in a specified format on [CodaLab]().
+**System Submission Format**  
+We will ask the participants to submit their predictions in a specified format on [CodaLab]().  
 **Evaluation Metrics** <br>
 **Baselines** <br>
 ## Paper Submission 
