@@ -85,7 +85,7 @@ to                 to                         English
 Jahresabschlüsse   #jahr+es+ab+#schlüss+e     German 
 твоей              #т+вое$й                   Russian
 देखो                #देखो$                       Hindi 
-行け               #行 け$                     Japanese 
+行け               #行け$                     Japanese 
 đàn ông           #đàn +#ông                  Vietnamese
 </pre>
 
@@ -195,7 +195,7 @@ The training and development data used in this shared task will remain publicly 
 * **Magda Ševčíková**, Charles University
 * **Zdeněk Žabokrtský**, Charles University
 * **Priya Rani**, Charles University
-* **Andrew Dryer**, Charles University
+* **Andrew Dyer**, Charles University
 * **Hana Hledíková**, Charles University
 * **Vojtěch John**, Charles University
 * **Anja Nedoluzhko**, Charles University
